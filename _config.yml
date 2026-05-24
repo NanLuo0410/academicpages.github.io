@@ -22,12 +22,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "avatar.jpg"
+  avatar           : "avatar_new.jpg"
   name             : "Nan Luo"
   pronouns         : # example: "she/her"  
-  bio              : "Per aspera ad astra"
-  location         : "Japan"
-  employer         : "University"
+  bio              : "M1 Student | 3D Vision & AI"
+  location         : "Ibaraki, Japan"
+  employer         : "University of Tsukuba"
   uri              : # URL
   email            : "nicholeluoln0410@gmail.com" 
 
